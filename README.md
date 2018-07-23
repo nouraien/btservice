@@ -83,13 +83,13 @@ srv5.Observable("Ahad","Rafat")
 ### Test:
  `npm  test`
 
-## usig Both for web and browsers
+## Using both for web and browsers
 
 ### Build
  `npm run build`
 
 
-### use in ES5
+### Use in ES5
  ```js
  var {AsService} =require("@barteh/as-service")
 
